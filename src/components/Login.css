@@ -1,0 +1,14 @@
+@import '../index.css';
+
+.login-container {
+  display: flex;
+  background-color: var(--main-theme);
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.logo {
+  margin-bottom: 2em;
+}

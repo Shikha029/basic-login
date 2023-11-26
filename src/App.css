@@ -1,0 +1,7 @@
+input[type=button]:hover {
+  cursor: pointer;
+}
+
+.App {
+  text-align: center;
+}
